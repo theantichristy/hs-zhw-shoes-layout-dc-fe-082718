@@ -25,7 +25,7 @@
 /* Positioning Classes */
 #details {
   column-count: 3;
-  position: fixed;
+  position: relative;
   top: 50%;
   left: 50%;
   /* bring your own prefixes */
