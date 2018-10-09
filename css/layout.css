@@ -25,6 +25,7 @@
 /* Positioning Classes */
 #details {
   column-count: 3;
+  position: center;
 }
 
 
